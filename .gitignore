@@ -31,7 +31,7 @@ Thumbs.db
 .LSOverride
 
 # Unity's cache directory for assets
-UnityCache/
+#UnityCache/
 
 # Other temporary files
 *.swp
